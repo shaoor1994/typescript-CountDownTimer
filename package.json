@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "@types/node": "^18.14.2"
+  },
+  "name": "typescript-countdowntimer",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaoor1994/typescript-CountDownTimer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaoor1994/typescript-CountDownTimer/issues"
+  },
+  "homepage": "https://github.com/shaoor1994/typescript-CountDownTimer#readme"
+}
