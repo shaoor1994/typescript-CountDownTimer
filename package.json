@@ -2,7 +2,7 @@
   "devDependencies": {
     "@types/node": "^18.14.2"
   },
-  "name": "typescript-countdowntimer",
+  "name": "ssg-typescript-countdowntimer",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
@@ -10,6 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "./index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shaoor1994/typescript-CountDownTimer.git"

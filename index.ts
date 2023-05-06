@@ -1,3 +1,4 @@
+#!/usr/bin/env node 
 import { setInterval } from 'timers';
 
 // Set the target date and time
